@@ -10,5 +10,9 @@
 	$arr=ArrayHelper::multi_array_sort($tags, 'rank');
 	print_r($arr);
 
-
+	test();
+	function test()
+	{
+		echo 'test';
+	}
 
