@@ -39,6 +39,6 @@
 	{
 		print 'f';
 	}
-	
+	print_r('test');
 	
 	
