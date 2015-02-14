@@ -40,5 +40,5 @@
 		print 'f';
 	}
 	print_r('test');
-	
+	echo 'hello';
 	
